@@ -1,0 +1,22 @@
+/* External style applying */
+
+h1{
+
+}
+
+p{
+
+}
+
+button{
+
+}
+
+a{
+
+}
+
+h1, p , button , a{
+
+    color: aqua;
+}
