@@ -1,0 +1,48 @@
+ 1. Create a heading centered on the page with all its text capitalized by default.
+ 2. Set the fontfamily of all the content in the document to "Times New Roman"
+ 3. Create one div inside another div .
+    set id & text "outer" for the first one & "inner" for the second one.
+    set the outer div text size to 25px & inner div text size to 10px. 
+
+//1 task :-
+Wtsup shared some forms done it .
+
+//2 task :- 
+
+Text Alignment
+1.What property is used to align text to the left, right, or center of a page?
+2.Write the CSS code to align a paragraph's text to the right.
+
+Text Decoration
+3.What property would you use to underline, overline, or strikethrough text?
+4.How can you remove the default underline from a hyperlink (<a> tag)?
+5.Write the CSS to add a wavy red underline to a paragraph's text.
+
+Font Weight
+6.What is the purpose of the font-weight property in CSS?
+7.Explain the difference between font-weight: normal;, font-weight: bold;, and font-weight: lighter;.
+8.How can you set a heading to have a font-weight of 700 using CSS?
+
+Font Family
+9.What is the font-family property used for in CSS?
+10.Why is it recommended to list multiple font families in a font-family declaration?
+11.Write the CSS code to set the font family of a paragraph to "Arial", with "Verdana" as a fallback.
+
+CSS Units
+12.What are the two types of units in CSS, and how do they differ?
+13.Write a CSS rule that sets the font size of a paragraph to 18px.
+14.How many pixels are equivalent to 1 inch in CSS?
+
+Line Height
+15.What is the purpose of the line-height property in CSS?
+16.Write the CSS code to set the line height of a paragraph to 1.5 times its font size.
+
+Text Transform
+17.What does the text-transform property do in CSS?
+18.Write a CSS rule to make all the text in a paragraph uppercase.
+19.How would you capitalize the first letter of each word in a paragraph using CSS?
+
+Practical Scenarios
+20.Create a heading centered on the page with all its text capitalized by default.
+21.Set the font family of all the content in the document to "Times New Roman".
+22.Create a div inside another div. Set the outer div text size to 25px and the inner div text size to 10px.
