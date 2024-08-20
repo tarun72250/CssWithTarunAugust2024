@@ -1,0 +1,31 @@
+CSS Projects :- 
+
+1. Dynamic Loading Animation: Unleash Your Creativity with CSS3 #huxnwebdev
+URL :- https://www.youtube.com/watch?v=x32x4sroZKE&list=PLSDeUiTMfxW7lm7P7GZ8qtNFffHAR5d_w&index=3
+
+2. Mastering Modern Custom Scrollbars with CSS: A Comprehensive Guide by #huxnwebdev
+URL :- https://www.youtube.com/watch?v=NSxGZ7fC5AA&list=PLSDeUiTMfxW7lm7P7GZ8qtNFffHAR5d_w&index=4
+
+3. Unleashing Creativity: Mastering Stunning Image Hover Effects with CSS3 #huxnwebdev
+URL :- https://www.youtube.com/watch?v=miVfk-q3Mso&list=PLSDeUiTMfxW7lm7P7GZ8qtNFffHAR5d_w&index=5
+
+4. Revolutionize Navigation: Top 3 Creative CSS3 Navigation Menus for 2023 by #huxnwebdev
+URL :- https://www.youtube.com/watch?v=5dnkutpeA7o&list=PLSDeUiTMfxW7lm7P7GZ8qtNFffHAR5d_w&index=7
+
+5. Cinema mode Unleashing Creativity: Top 3 Creative Image Hover Effects Using HTML5 & CSS3 by #huxnwebdev
+URL :- https://www.youtube.com/watch?v=IL3e5Ta9QxQ&list=PLSDeUiTMfxW7lm7P7GZ8qtNFffHAR5d_w&index=8
+
+6. Unleashing the Unconventional: Mind-Blowing CSS Card Designs You've Never Seen Before by #huxnwebdev
+URL :- https://www.youtube.com/watch?v=2ihGEkUzges&list=PLSDeUiTMfxW7lm7P7GZ8qtNFffHAR5d_w&index=9
+
+7. Unveiling Elegance: Creating Accordion Projects Using HTML5 & CSS with #huxnwebdev
+URL :- https://www.youtube.com/watch?v=4w_PS9x_yJk&list=PLSDeUiTMfxW7lm7P7GZ8qtNFffHAR5d_w&index=11
+
+8. Revolutionize User Experience: Building Modern Scrollbars Using HTML5 and CSS3 with #huxnwebdev
+URL :- https://www.youtube.com/watch?v=f53uarhijZ4&list=PLSDeUiTMfxW7lm7P7GZ8qtNFffHAR5d_w&index=12
+
+9. Creating a Page Scroll Indicator with JavaScript by #huxnwebdev
+URL :- https://www.youtube.com/watch?v=6pUjcXYR6oI&list=PLSDeUiTMfxW7lm7P7GZ8qtNFffHAR5d_w&index=14
+
+10. Unleashing Dynamic Visuals: Creating a Background Color Changer with JavaScript by #huxnwebdev
+URL :- https://www.youtube.com/watch?v=WvGd0scrKOA&list=PLSDeUiTMfxW7lm7P7GZ8qtNFffHAR5d_w&index=16
