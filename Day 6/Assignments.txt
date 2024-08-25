@@ -1,0 +1,42 @@
+
+1. Position: Static
+What is the default position value for HTML elements?
+Write CSS to create a header that stays in its normal flow (static position) without affecting other elements.
+
+2. Position: Relative
+How does the position property change when set to "relative"?
+Create a div that moves 20px to the right and 10px down using position: relative.
+
+3. Position: Absolute
+What happens when an element is positioned as "absolute"? How does it affect the layout?
+Position a div absolutely within a parent container that has a position set to "relative." Align it to the bottom right.
+
+4. Position: Fixed
+Explain how a "fixed" positioned element behaves on the page during scrolling.
+Create a fixed sidebar on the left of the page that stays in place while the rest of the content scrolls.
+
+5. Position: Sticky
+What is the difference between "sticky" and "fixed" positioning?
+Design a sticky navigation bar that becomes fixed at the top of the page when the user scrolls down past it.
+
+6. Combination of Positions
+How do relative, absolute, and fixed positions interact with each other in a nested layout? Explain with an example.
+Create a layout with a header (relative), content section (absolute), and footer (fixed). Ensure each element maintains its intended position.
+
+7. Understanding z-index with Positioning
+How does the z-index property work with positioned elements?
+Create two overlapping boxes where one is positioned absolutely, and the other is fixed. Use z-index to control which box appears on top.
+
+8. Positioning within Different Containers
+How does setting different position values within nested containers affect element layout? Explain with an example.
+Build a container with multiple child elements using a mix of relative and 
+absolute positioning.
+
+9. Responsive Design and Positioning
+How can you use position properties to create responsive layouts?
+Design a layout where a sidebar appears fixed on large screens but becomes a relative element on smaller screens.
+
+10. Positioning and Overflow
+What happens when positioned elements overflow their containers? How can you manage overflow using CSS?
+Create an absolutely positioned box inside a container that has overflow hidden. Experiment with different sizes to observe the behavior.
+

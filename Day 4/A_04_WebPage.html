@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebPage in Css</title>
+    <style>
+
+/*Styling for NavBar  */
+*{
+padding: 0px;
+margin: 0px;
+color: white;
+}
+
+#navbar{
+    height: 60px;
+    background-color:black ;
+}
+
+#logo{
+    font-size: 25px;
+    color: #f0884f;
+}
+
+button{
+    background-color:#f08804 ;
+}
+
+a{
+    margin-right:300px ;
+    text-decoration: none;
+}
+/* ------------------------------------------------------- */
+
+        .contentBox{
+            height: 100px;
+            width: 100px;
+            border: 2px solid black;
+            display: inline-block;
+        }
+
+
+        #content{
+            height: 900px;
+        }
+
+        footer{
+            background-color: black;
+            color: white;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    
+    <header>
+
+        <div id="navbar">
+            <a id="logo" href="#">amazon.in</a>
+            <a href="#">Account</a>
+            <a href="#">My Cart</a>
+            <a href="#">Contect Us</a>
+    
+            <input placeholder="search Amazon.in">
+            <button>Search</button>
+        </div>
+
+    </header>
+
+    <div id="content">
+        <div class="contentBox" style="background-color: rgba(255,0,0,0.5)"></div>
+        <div class="contentBox" style="background-color: rgba(0,255,0,0.5)"></div>
+        <div class="contentBox" style="background-color: rgba(0,0,255,0.5)"></div>
+    </div>
+
+    <footer>
+        Conditions of Use & Sale
+        Privacy Notice
+        Interest-Based Ads
+        © 1996-2024, Amazon.com, Inc. or its affiliates
+    </footer>
+</body>
+</html>

@@ -1,0 +1,21 @@
+ // Questions for practise :-
+
+        // Question: Create a div element and set its width to 300px. Change the width to 50% and observe the difference. Explain how percentage units work in CSS.
+
+        // Question: Style a paragraph's font size using different units: px, em, rem, and vw. Explain how each unit behaves and affects the text size.
+
+        // Question: Create a box with a height of 10vh and a width of 20vw. Explain how vh and vw units are calculated based on the viewport.
+
+        // Question: Use the rem unit to set the padding of a container. Set the root font size to 16px and use rem for consistent spacing across the design. Explain the relation between rem and the root font size.
+
+        // Question: Create a responsive layout with three columns using flexbox. Set the width of each column using fr units in CSS Grid or Flexbox. Explain the purpose of the fr unit.
+
+        // Question: Create a heading with a font size of 2em. Then, nest this heading inside a parent container with a font size of 20px. Explain how the em unit relates to the parent element's font size.
+
+        // Question: Create a button and set its border-radius using px, em, and %. Test the button's appearance with different units and explain the visual impact.
+
+        // Question: Create a text container with a line height set to 1.5em. Compare it with setting the line height using px. Discuss how relative units impact text spacing.
+
+        // Question: Design a layout where the margins and padding are set using ch and ex units. Explain how these units depend on the character dimensions and text properties.
+
+        // Question: Implement a media query that adjusts the font size of a paragraph using vw for large screens and rem for smaller screens. Explain why different units are chosen for responsive design.
