@@ -40,3 +40,5 @@ Design a layout where a sidebar appears fixed on large screens but becomes a rel
 What happens when positioned elements overflow their containers? How can you manage overflow using CSS?
 Create an absolutely positioned box inside a container that has overflow hidden. Experiment with different sizes to observe the behavior.
 
+
+left 5 assignments 

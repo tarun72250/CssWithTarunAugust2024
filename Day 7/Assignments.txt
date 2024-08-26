@@ -1,0 +1,90 @@
+  //Assignment Question for practise :- 
+        
+Create the following layout using the given html.
+• Give the div a height, width & some background image.
+• Use the appropriate position property for the div element to place it at the right end of the page. (The div should not move even on scroll)
+<p> lorem*5 </p>
+<div> Love Nature </div>
+<p> lorem*5 </p>
+
+
+1. Question:
+Create a div with a background image of your choice. Make sure the image covers the entire div area without repeating. The size of the div should be 200px by 200px. Use the appropriate CSS properties to achieve this.
+
+Expected Concepts Covered:
+
+background-image: url(...)
+background-size: cover
+background-repeat: no-repeat
+
+2. You have a webpage with a background image. Make sure the image scales proportionally inside the container without cropping or repeating. Use both cover and contain properties and observe the difference in how the image behaves.
+
+Expected Concepts Covered:
+
+background-size: cover
+background-size: contain
+
+3. Add a background image to the body of a webpage. The image should remain fixed in place while scrolling and should cover the entire viewport. Experiment with different values of background-attachment and see how it affects the image position.
+
+Expected Concepts Covered:
+
+background-image: url(...)
+background-attachment: fixed
+background-size: cover
+
+4. How would you apply a background image to a div such that the image only repeats horizontally? Set the image size to automatically adjust to fit the height of the div, but it should repeat along the x-axis (horizontally) across the container.
+
+Expected Concepts Covered:
+
+background-image: url(...)
+background-repeat: repeat-x
+background-size: auto 100%
+
+
+5. Create a webpage with a background image that does not scroll with the page content. The image should be centered and should only cover a portion of the screen, leaving white space if necessary. Use the appropriate background properties.
+
+Expected Concepts Covered:
+
+background-image: url(...)
+background-position: center
+background-size: contain
+background-attachment: fixed
+
+6.Design a set of four div elements arranged side by side. Apply a different background image to each one using embedded styles. Experiment with different background-size values (cover, contain, auto) and explain how each affects the display of the background images.
+
+Expected Concepts Covered:
+
+Inline CSS for background properties
+background-size: cover, contain, auto
+Applying background images to multiple elements using different styles
+
+7. Create a div with a background image. Set the background-size to auto and explain how this value affects the display of the image compared to using cover and contain. Why might you choose to use auto instead of the other options?
+
+Expected Concepts Covered:
+
+Understanding how background-size: auto maintains the image’s original dimensions.
+Comparing the behavior of auto, cover, and contain with respect to image scaling.
+
+8. You are given a div that should maintain the entire image's visibility within the element, without any cropping or distortion. What background-size value would you choose, and how would you implement it? Also, make sure the image does not repeat.
+
+Expected Concepts Covered:
+
+Using background-size: contain to fit the entire image.
+Applying background-repeat: no-repeat to prevent repeating.
+
+9. Design a layout where one div uses background-size: cover, another uses background-size: contain, and a third uses background-size: auto. Compare how the same image looks in each scenario and describe which situation each property is best suited for.
+
+Expected Concepts Covered:
+
+Visual differences between cover, contain, and auto.
+Practical applications of each background-size value.
+
+10. Create a responsive webpage with four div elements displayed side by side. Each div should have a different background image and use one of the following background-size values: auto, cover, contain, and a custom width height combination (e.g., 50% 50%). Ensure the background images do not repeat, and explain how each background behaves when the viewport is resized. Which background-size property would you recommend for a full-screen hero section and why?
+
+Expected Concepts Covered:
+
+Practical use of background-size: auto, cover, contain, and custom dimensions.
+Understanding when to use each option based on image behavior and layout needs.
+The impact of responsive design on background image scaling.
+How background-repeat: no-repeat affects the display.
+

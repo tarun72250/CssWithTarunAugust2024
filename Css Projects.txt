@@ -29,3 +29,12 @@ URL :- https://www.youtube.com/watch?v=6pUjcXYR6oI&list=PLSDeUiTMfxW7lm7P7GZ8qtN
 
 10. Unleashing Dynamic Visuals: Creating a Background Color Changer with JavaScript by #huxnwebdev
 URL :- https://www.youtube.com/watch?v=WvGd0scrKOA&list=PLSDeUiTMfxW7lm7P7GZ8qtNFffHAR5d_w&index=16
+
+Note :- 
+GYM Website 
+School Website 
+Hotel Website 
+Hostel Website 
+Travel Website 
+Library Website 
+E-commercee Website
