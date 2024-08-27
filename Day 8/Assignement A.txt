@@ -1,0 +1,39 @@
+hint :- common content for all questions :- 
+ <h1>Hello From DebugShala</h1>
+    <div id="container">
+        <div id="box1">Box1</div>
+        <div id="box2">Box2</div>
+        <div id="box3">Box3</div>
+        <div id="box4">Box4</div>
+        <div id="box5">Box5</div>
+    </div>
+
+Question 1:
+Set the direction of the flex items so that they are arranged in a row (default behavior).
+
+Question 2:
+Change the direction of the flex items so that they are arranged in a column instead of a row.
+
+Question 3:
+Reverse the order of the flex items horizontally using flex-direction, so that they are arranged in a row-reverse.
+
+Question 4:
+Arrange the flex items in a column-reverse order, stacking from bottom to top.
+
+Question 5:
+First, set the direction of the flex items to a column and then change it back to row-reverse.
+
+Question 6:
+Switch the direction of the flex items to row and then update it to column-reverse.
+
+Question 7:
+Change the layout to stack flex items in a column and explain how flex-direction: column affects the alignment.
+
+Question 8:
+Use flex-direction to arrange the items in row-reverse and explain what happens to the visual order of items compared to the HTML structure.
+
+Question 9:
+Experiment by switching between column and row-reverse to understand the differences in behavior when using flex-direction.
+
+Question 10:
+Set the layout to column-reverse and observe how it affects the top-to-bottom stacking order.
