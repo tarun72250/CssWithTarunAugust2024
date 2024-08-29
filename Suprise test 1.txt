@@ -1,0 +1,48 @@
+Assignment: Build a Portfolio Webpage
+Objective:
+Create a simple, static portfolio webpage using HTML and CSS that incorporates the following CSS concepts: Text properties, Box-Model, Display properties, Units in CSS, Position Property in CSS, Background Image property, and Flexbox property.
+
+Instructions:
+You have 2 hours to complete this assignment.
+The webpage should be responsive and well-structured.
+Pay attention to the logical organization of the page.
+Make sure to include all the required CSS properties.
+Webpage Requirements:
+Header Section:
+
+Create a header with a background image of your choice.
+Use the background-image and background-size properties.
+Inside the header, include your name in a large font with a text-shadow effect.
+Use appropriate text properties (text-align, font-family, font-size, etc.).
+Navigation Menu:
+
+Create a horizontal navigation bar below the header using the display: flex; property.
+The navigation bar should have links like Home, About, Portfolio, and Contact.
+Style the links to change their background color when hovered.
+About Section:
+
+Create an "About Me" section with a brief description of yourself.
+Use the box-model properties (padding, margin, border, etc.) to style the section.
+Ensure that the text is centered and has proper line height and spacing.
+Portfolio Section:
+
+Create a grid of portfolio items using Flexbox.
+Each portfolio item should be a box that includes an image and a title.
+The images should be responsive, and the title should be centered below each image.
+Contact Section:
+
+Create a contact form using form elements (input, textarea, button).
+Use different units (pixels, percentages, ems) to style the form elements.
+Position the submit button using the position property (relative, absolute, or fixed).
+Footer:
+
+Create a footer section that sticks to the bottom of the page.
+Include some text (e.g., "© 2024 Your Name").
+Center the text using the appropriate display properties.
+Evaluation Criteria:
+Correct usage of Text properties and Units in CSS.
+Proper implementation of the Box-Model.
+Effective use of Display properties and Flexbox for layout.
+Application of the Position Property to achieve desired effects.
+Creative and functional design.
+Clean and well-structured code.

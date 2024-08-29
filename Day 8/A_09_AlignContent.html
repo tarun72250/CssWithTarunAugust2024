@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Allign Content in CSS</title>
+
+    <style>
+        body{
+            text-align:center;
+        }
+        div{
+            height: 50px;
+            width: 150px;
+            display: inline-block;
+            border: 2px solid black;
+        }
+        #container{
+            height: 600px;
+            width: 600px;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            /* align-items: flex-start; */
+            flex-wrap: wrap;
+            /* align-content: flex-start;  */
+            align-content: flex-end;
+        }
+        #box1{
+            background-color: aqua;
+        }
+        #box2{
+            background-color: burlywood;
+            height: 200px;
+        }
+        #box3{
+            background-color: red;
+            height: 75px;
+        }
+        #box4{
+            background-color: cadetblue;
+        }
+        #box5{
+            background-color: chocolate;
+        }
+    </style>
+</head>
+<body>
+    
+    <h1>Hello From DebugShala</h1>
+    <div id="container">
+        <div id="box1">Box1</div>
+        <div id="box2">Box2</div>
+        <div id="box3">Box3</div>
+        <div id="box4">Box4</div>
+        <div id="box5">Box5</div>
+    </div>
+
+    <script>
+        //align-content :- alignment of sapce between and around the content along cross-axis
+
+
+        //align-item :- works on cross axis 
+        //align-content :- this work on both main as well as coross axis
+
+
+    </script>
+</body>
+</html>

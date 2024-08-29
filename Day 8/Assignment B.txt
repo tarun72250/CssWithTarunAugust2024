@@ -1,0 +1,162 @@
+1.  Modify the layout so that all the boxes are arranged in a column instead of a row. Use flexbox properties to achieve this.
+
+Instructions:
+
+Use the flex-direction property to change the direction of the flex items.
+Ensure that all boxes are stacked vertically inside the container.
+Expected Outcome: The boxes should be arranged one below the other in a single column.
+
+2. Center all the boxes horizontally and vertically within the container.
+
+Instructions:
+
+Use appropriate flexbox properties to center the flex items.
+Adjust both the horizontal and vertical alignment of the boxes within the container.
+Expected Outcome: All boxes should be centered inside the container both horizontally and vertically.
+
+
+3. Change the order of the boxes such that the third box (Box3) appears first, and the second box (Box2) appears last.
+
+Instructions:
+
+Use the order property to rearrange the boxes.
+Only adjust the order property for specific boxes as required.
+Expected Outcome: Box3 should be the first box, and Box2 should be the last box in the sequence.
+
+4. Allow the third box (Box3) to grow and fill up more space than the other boxes.
+
+Instructions:
+
+Use the flex-grow property to make the third box grow relative to the other boxes.
+Ensure that Box3 occupies the maximum space available without affecting the overall layout.
+Expected Outcome: Box3 should be noticeably larger than the other boxes within the container.
+
+5.  Modify the container so that if the boxes exceed the width of the container, they wrap into the next line.
+
+Instructions:
+
+Use the flex-wrap property to enable wrapping.
+Adjust the layout so that when the width of the container is exceeded, the boxes start on a new line.
+Expected Outcome: When the boxes can't fit in one line, they should wrap onto the next line within the container.
+
+6. Basic Alignment Using justify-content
+Problem: Align all the boxes to the right side of the container using the justify-content property.
+
+Instructions:
+
+Use the justify-content property to align the boxes.
+Ensure the boxes are positioned at the end of the container.
+Expected Outcome: All boxes should be aligned to the right side of the container.
+
+7. Modify the container so that the boxes are evenly distributed with the first and last items aligned with the container edges.
+
+Instructions:
+
+Use the justify-content property with the appropriate value to achieve this layout.
+Ensure there are equal gaps between the boxes, but no gap on the outer edges.
+Expected Outcome: Boxes should have equal spaces between them, with the first and last boxes touching the edges of the container.
+
+8. Center all the boxes horizontally within the container using the justify-content property.
+
+Instructions:
+
+Use the justify-content property to center the boxes.
+Ensure the boxes are in the middle of the container with equal space on either side.
+Expected Outcome: All boxes should be centered within the container.
+
+9.  Adjust the container so that there is equal spacing around each box within the container.
+
+Instructions:
+
+Use the justify-content property with the space-around value.
+Make sure there are equal spaces on all sides of each box within the container.
+Expected Outcome: Each box should have equal spacing on its left and right sides, including the space between the first and last boxes and the container's edges.
+
+10. Modify the container to distribute the boxes with equal spacing between them and the container edges.
+
+Instructions:
+
+Use the justify-content property with the space-evenly value.
+Ensure there is equal space between each box and also between the boxes and the container's edges.
+Expected Outcome: All boxes should have perfectly equal spacing between each other and the container edges.
+
+11.  Align all the boxes to the top of the container using the justify-content property.
+
+Instructions:
+
+Use the justify-content property to position the boxes at the start of the container.
+Make sure all the boxes are aligned at the top without any space above them.
+Expected Outcome: All boxes should be stacked at the top of the container.
+
+12. Align all the boxes to the bottom of the container using the justify-content property.
+
+Instructions:
+
+Use the justify-content property to position the boxes at the end of the container.
+Ensure all the boxes are aligned at the bottom without any space below them.
+Expected Outcome: All boxes should be aligned at the bottom of the container.
+
+13. Center all the boxes vertically within the container using the justify-content property.
+
+Instructions:
+
+Use the justify-content property with the center value.
+Ensure that the boxes are positioned in the middle of the container with equal space above and below.
+Expected Outcome: All boxes should be centered vertically within the container.
+
+14. Modify the container so that the boxes have equal space around them vertically.
+
+Instructions:
+
+Use the justify-content property with the space-around value.
+Ensure there is equal spacing around each box, including between the first and last boxes and the container edges.
+Expected Outcome: Each box should have equal space on its top and bottom sides, including spaces between the container’s edges and the boxes.
+
+15. Adjust the container to ensure that the boxes are distributed evenly with equal space between them and the container edges.
+
+Instructions:
+
+Use the justify-content property with the space-evenly value.
+Make sure all boxes are evenly spaced with equal distances between each box and the edges of the container.
+Expected Outcome: All boxes should have equal spacing between each other and equal spacing from the top and bottom edges of the container.
+
+16. Adjust the container so that the rows of boxes are centered vertically within the container.
+
+Instructions:
+
+Use the align-content property to center the rows of boxes.
+Ensure the rows are centered vertically in the container, with equal space above and below them.
+Expected Outcome: The rows of boxes should be centered vertically within the container.
+
+17. Align each box to the top of the container using the align-items property.
+
+Instructions:
+
+Use the align-items property with the flex-start value.
+Ensure that all boxes are aligned to the top of the container regardless of their individual heights.
+Expected Outcome: All boxes should be aligned to the top of the container.
+
+18. Modify the container so that the rows of boxes are evenly distributed with the first row aligned at the top and the last row at the bottom.
+
+Instructions:
+
+Use the align-content property with the space-between value.
+Ensure there is equal space between each row of boxes, with no space at the top and bottom of the container.
+Expected Outcome: Rows should be evenly distributed with equal gaps between them, touching the top and bottom edges of the container.
+
+19. Adjust the container so that the rows of boxes have equal space around them.
+
+Instructions:
+
+Use the align-content property with the space-around value.
+Make sure each row has equal spacing above and below it, including spaces between the container’s edges and the rows.
+Expected Outcome: Each row of boxes should have equal spacing on top and bottom, including the spaces at the edges of the container.
+
+20. Make all the boxes stretch to fill the available height in their row, keeping the width fixed.
+
+Instructions:
+
+Use the align-items property with the stretch value.
+Ensure that the boxes expand to fill the full height of their row, while their width remains unchanged.
+Expected Outcome: All boxes should stretch to fill the height of their row, regardless of their individual content or original height setting.
+
