@@ -1,0 +1,42 @@
+1.create a navbar  with 4 options in the form of anchor tag inside list items.
+    //Now , use flexbox to place them all spaced equally in a single line 
+
+    //2. Use flexbox to centre one div inside another div.
+
+    //3. which has higher priority -align-items or align-slef?
+
+
+    -------------------------------------------------------------------------------------------------------------
+    1. Create a flex container with three boxes. Use the align-self property to position each box differently along the cross-axis. Set the first box to flex-start, the second box to center, and the third box to flex-end.
+Objective: Understand how align-self can override the parent container’s align-items property.
+
+2. Create a flex container and set its flex-direction to column. Add four boxes with varying heights and use the align-self property to position the second and fourth boxes at center and stretch.
+Objective: Explore how align-self behaves when the container's direction is changed to column.
+
+3. Design a flex container with multiple boxes and set the container's flex-wrap property to wrap. Use align-self to position the first and third boxes differently in the second row.
+Objective: Demonstrate how align-self interacts with wrapped items in a flex container.
+
+4. Create a flex container with three boxes. Set different flex-shrink values (0, 1, 2) for each box and observe how they shrink when the container width is reduced. Explain the effect of each flex-shrink value.
+Expected Output: Students should understand how flex-shrink controls the shrinking of flex items relative to each other when space is limited.
+
+5. Create a flex container with four items and use the align-self property with values flex-start, center, flex-end, and baseline on different items. Explain the impact of each value on the alignment of the individual flex items.
+Expected Output: Demonstrate how align-self overrides the container's align-items property for specific items.
+
+6. Create a flex container and set flex-direction to column. Use justify-content values (flex-start, center, space-between, space-around) to align the flex items vertically. Describe how each value affects the vertical positioning of the items.
+Expected Output: Students should understand how changing flex-direction alters the axis and how justify-content manages spacing along that axis.
+
+7. Create a flex container with three boxes. Set flex-grow and flex-shrink values for each box in such a way that one box grows to occupy extra space while another shrinks when the container's size is changed. Explain how the properties interact with each other.
+Expected Output: Students will see the combined effects of flex-grow and flex-shrink in distributing space among flex items.
+
+8. Create a flex container with five boxes and assign different flex-grow values (0, 1, 2, 3, 4) to each box. Experiment with reducing the container's width and observe how each box grows relative to the others.
+Expected Output: Students should understand how the flex-grow property distributes extra space within the flex container among the flex items.
+
+9. Create a flex container with four items. Set flex-grow to 1 for each item, but use different align-self values (flex-start, center, flex-end, baseline). Explain the combined effect of flex-grow and align-self on the layout of the flex items.
+Expected Output: Demonstrate how items grow to fill space while aligning individually based on the align-self property.
+
+10. Design a flex container and set flex-direction to column. Use flex-grow values of 1 and 2 on various items to observe how items expand along the column. Change the container height and describe the behavior of the items.
+Expected Output: Students should observe how flex-grow affects item expansion along the column when the flex direction is changed.
+
+11. Create a flex container with three items. Assign flex-grow: 1 and flex-shrink: 0 to the first item, flex-grow: 2 and flex-shrink: 1 to the second, and flex-grow: 1 and flex-shrink: 2 to the third. Adjust the container's size and explain how the combination of flex-grow and flex-shrink influences the items' resizing behavior.
+Expected Output: Understanding of how flex-grow and flex-shrink work together to determine the overall size adjustments of items based on available space.
+

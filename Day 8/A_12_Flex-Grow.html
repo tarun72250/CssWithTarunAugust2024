@@ -3,35 +3,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Allign Content in CSS</title>
-
+    <title>Flex-grow in css</title>
     <style>
         body{
             text-align:center;
         }
         div{
-            height: 50px;
-            width: 150px;
+            height: 100px;
+            width: 50px;
             display: inline-block;
             border: 2px solid black;
         }
         #container{
-            height: 600px;
-            width: 600px;
+            height: 300px;
+            width: 700px;
             display: flex;
             flex-direction: row;
             justify-content: center;
             align-items: flex-start;
-            flex-wrap: wrap;
+            /* flex-wrap: wrap; */
             /* align-content: flex-start;  */
-            /* align-content: flex-start; */
         }
         #box1{
             background-color: aqua;
+            flex-grow: 1;
         }
         #box2{
             background-color: burlywood;
             height: 200px;
+            /* align-self: flex-start; */
+            /* align-self: flex-end; */
+            /* align-self: center; */
+            /* flex-shrink: 0; */
+            flex-grow: 2;
         }
         #box3{
             background-color: red;
@@ -42,6 +46,7 @@
         }
         #box5{
             background-color: chocolate;
+            /* align-self: flex-end; */
         }
     </style>
 </head>
@@ -55,15 +60,5 @@
         <div id="box4">Box4</div>
         <div id="box5">Box5</div>
     </div>
-
-    <script>
-        //align-content :- alignment of sapce between and around the content along cross-axis
-
-
-        //align-item :- works on cross axis 
-        //align-content :- this work on both main as well as coross axis
-
-
-    </script>
 </body>
 </html>
