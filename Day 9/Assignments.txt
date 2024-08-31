@@ -1,0 +1,69 @@
+Interview Guide :- 10 best questions for media queries 
+URL :- https://www.linkedin.com/pulse/most-asked-interview-questions-from-css-media-queries-aman-varshney/ 
+ 
+ //Assignment :- 
+Add a media query to add the following 
+1. The color of div to changes to green for viewport width less than 300px
+2. The color of div to changes to pink for width between 300px and 400px.
+3. The color of div to changes to red for width between 400px and 600px.
+4. The color of div to changes to blue for width above 600px.
+
+
+-------------------------------------------------------------------------------------------------------------
+1. Viewport Change to Orange
+
+Change the background color of the div to orange when the viewport width is less than 400px, and to lightgray when the viewport height is less than 300px.
+
+2. Font Size Adjustment
+
+Adjust the font size of text inside a p tag to 12px for viewport width less than 500px, 16px for width between 500px and 800px, and 20px for width greater than 800px.
+
+3. Visibility Toggle
+
+Hide a header element when the viewport width is less than 350px, display it as block when the viewport width is between 350px and 600px, and display it as flex for width above 600px.
+
+4. Button Size Change
+
+Change the button size:
+Small buttons for viewport width less than 300px (height: 20px, width: 50px).
+Medium buttons for 300px to 600px (height: 30px, width: 100px).
+Large buttons for viewport width above 600px (height: 40px, width: 150px).
+
+5. Border Radius Adjustment
+
+Change the border-radius of a div element to:
+0px for width less than 400px.
+10px for width between 400px and 700px.
+20px for width greater than 700px.
+
+6. Text Alignment and Padding
+
+Set text alignment inside a div to center for widths less than 500px, left for widths between 500px and 700px, and right for widths greater than 700px. Add 10px padding when the height is more than 300px.
+
+7. Grid Layout Change
+
+Modify the display property:
+Use block layout for width less than 400px.
+Use flex layout for width between 400px and 700px.
+Use grid layout for width above 700px.
+
+8. Dynamic Font Weight
+
+Change the font weight of an h1 element to:
+300 for width less than 350px.
+500 for width between 350px and 650px.
+700 for width greater than 650px.
+
+9. Opacity Change Based on Width
+
+Set the opacity of a div element:
+0.5 for width less than 300px.
+0.8 for width between 300px and 500px.
+1 for width above 500px.
+
+10. Background Image Swap
+
+Change the background image of a section element based on viewport width:
+Set Image A for less than 400px.
+Set Image B for 400px to 800px.
+Set Image C for above 800px.
