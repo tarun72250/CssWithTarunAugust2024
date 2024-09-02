@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transition in CSS</title>
+    <style>
+        div{
+            height: 100px;
+            width: 100px;
+            background-color: aqua;
+            border: 2px solid black;
+            /* transition-property:all;
+            transition-duration: 2s;
+             transition-timing-function: steps(3); 
+            transition-timing-function: ease-in;
+            transition-delay: 2s; */
+            transition: all 2s ease-in 2s;
+        }
+        div:hover{
+            height: 300px;
+            width: 300px;
+            background-color: orange;
+            color: aliceblue;
+            font-size: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        Hello From DebugShala 
+    </div>
+
+    <script>
+        //transition : property u want to transition (font-size, width etc.)
+        //transition-duration :2s / 4ms..
+        //transition-timing-function : ease-in / ease-out / linear / steps ..
+        //transition-delay : 2s / 4ms ..
+
+
+        //Shorthand for transition 
+        //property-name / duration / timing-function / delay
+
+    </script>
+</body>
+</html>

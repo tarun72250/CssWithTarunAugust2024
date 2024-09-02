@@ -1,0 +1,40 @@
+Question 1: Basic Transition on Hover
+Task: Create a button that changes its background color from blue to green over 3 seconds when hovered over. Add a smooth transition effect.
+Hint: Use transition and transition-duration properties.
+
+Question 2: Multiple Property Transitions
+Task: Design a box that, when hovered, changes both its width (to 200px) and height (to 200px) over 1.5 seconds. Add different timing functions for width (ease-in) and height (ease-out).
+Hint: Apply multiple transitions with different transition-timing-function values.
+
+Question 3: Delayed Transition
+Task: Create a text box that changes its font size to 20px when hovered. Set the transition to start after a 2-second delay.
+Hint: Use the transition-delay property.
+
+Question 4: Transition with Custom Timing Function
+Task: Create a div that grows in width to 300px when hovered over. Use a custom timing function (cubic-bezier) to control the speed of the transition.
+Hint: Explore transition-timing-function with cubic-bezier.
+
+Question 5: All-in-One Transition
+Task: Create an image that changes its border radius to 50% and opacity to 0.5 over 2 seconds when hovered. Add a delay of 1 second before the transition starts.
+Hint: Combine transition, transition-duration, transition-timing-function, and transition-delay.
+
+Question 6: Color and Font Size Transition
+Task: Create a paragraph (<p>) element that changes its text color from black to blue and its font size from 16px to 24px when hovered. The transition should take 1.5 seconds with a delay of 1 second.
+Hint: Use transition with the properties for color and font size, and set a delay.
+
+Question 7: Image Transition with Scale and Opacity
+Task: Create an image that scales up by 1.2 times and changes its opacity from 1 to 0.7 over 3 seconds when hovered. Use the ease-out timing function for the transition effect.
+Hint: Utilize the transform: scale() and opacity properties with transitions.
+
+Question 8: Border and Shadow Transition
+Task: Design a button that, when hovered, increases its border width from 1px to 5px and adds a shadow effect over 2 seconds with a linear timing function.
+Hint: Apply transitions to border-width and box-shadow.
+
+Question 9: Height Transition with Step Timing Function
+Task: Create a box that changes its height from 100px to 400px when hovered, using the steps(4) timing function over 4 seconds.
+Hint: Focus on using steps() as the transition-timing-function.
+
+Question 10: Background Color and Position Transition
+Task: Create a div with a background color that transitions from lightgray to darkgray and moves from left to right by 100px when hovered. The transition should take 3 seconds with ease-in-out.
+Hint: Combine transitions for background-color and transform: translateX().
+
