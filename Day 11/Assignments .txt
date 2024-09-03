@@ -1,0 +1,39 @@
+Question 1: Basic Rotation Transformation
+Task: Create a square-shaped div element and apply a 45-degree rotation using CSS. On hovering, change the background color to green and scale the div to 1.5 times its original size.
+Expected Output: A square that rotates by 45 degrees with hover effects.
+
+Question 2: 3D Rotation Transformation
+Task: Create a div with some text inside. Use the CSS rotateX and rotateY properties to rotate the div along both the X and Y axes by 30 degrees each. Add a hover effect that rotates the element further by 15 degrees on the Y-axis.
+Expected Output: A div that appears tilted in 3D space and rotates further on hover.
+
+Question 3: Combining Multiple Transformations
+Task: Design a div with an initial position at the top left corner. Apply a transformation that moves it 50px to the right (translateX), rotates it by 60 degrees, and scales it to 0.8 times its original size. On hover, reverse the scaling to its original size and change the rotation angle to 90 degrees.
+Expected Output: A transformed div with movement, rotation, and scaling effects that further change on hover.
+
+Question 4: Rotation on X and Y Axes
+Task: Create a div element with a size of 150px by 150px. Apply a rotateX(45deg) transformation to tilt the element along the X-axis. Add another transformation that rotates the element on the Y-axis by 30 degrees when the user hovers over it. Additionally, change the background color to lightgreen on hover.
+Expected Output: A div initially rotated along the X-axis and further rotated along the Y-axis with a color change on hover.
+
+Question 5: Combining 3D Rotations
+Task: Design a div with a rotateZ(90deg) transformation applied. On hovering, change the transformation to include rotateX(45deg) and rotateY(45deg) as well, creating a 3D effect. Also, increase the div's size by 50px on all sides during the hover effect.
+Expected Output: A div that initially rotates on the Z-axis and transforms into a 3D object with X and Y rotations on hover, growing larger in size.
+
+Question 6: Basic Scaling of an Element
+Task: Create a div element with a size of 120px by 120px and apply the scale(1.5) transformation to enlarge the div uniformly by 1.5 times. On hover, scale the div down to half its original size using scale(0.5).
+Expected Output: A div that grows to 1.5 times its size initially and shrinks to half its size on hover.
+
+Question 7: Axis-Specific Scaling
+Task: Design a rectangular div element with a width of 150px and a height of 100px. Use the scaleX(2) transformation to double the width of the element while keeping the height constant. Add a hover effect that scales the height to twice its size using scaleY(2) without altering the width.
+Expected Output: A rectangle that expands horizontally and further expands vertically on hover.
+
+Question 8: Combined Scaling and Rotation
+Task: Create a square div with an initial scale(1, 2) transformation, making it taller than its width. On hover, change the transformation to scale(2, 1) and add a 180-degree rotation (rotate(180deg)) to flip the element while altering its proportions.
+Expected Output: A div that initially appears elongated vertically, which flips and stretches horizontally on hover.
+
+Question 9: Horizontal and Vertical Translation
+Task: Create a div element with a size of 120px by 120px. Apply a translateX(50px) transformation to move the element 50px to the right. On hovering, change the transformation to translateY(100px) to move the element 100px downward.
+Expected Output: A div that shifts to the right initially and moves downward on hover.
+
+Question 10: Combined Translation
+Task: Design a div with initial translate(-30px, -30px) transformation, positioning it 30px left and 30px upward from its original position. Add a hover effect that translates the element to translate(150px, 50px), moving it to the right and slightly downward.
+Expected Output: A div that starts in the top-left corner and smoothly moves to the bottom-right on hover.
