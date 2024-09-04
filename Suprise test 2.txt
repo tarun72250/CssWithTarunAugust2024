@@ -1,0 +1,69 @@
+1.Basic Web Page Layout
+Task: Create a basic webpage with a header, main content section, and footer.
+Requirements:
+Use margin and padding to space out the sections.
+Set a background color for each section.
+Center the main content using text-align.
+
+2. Simple Navigation Bar
+Task: Create a horizontal navigation bar with three links: Home, About, and Contact.
+Requirements:
+Use an unordered list (<ul>) to create the nav bar.
+Style the links with padding and margin.
+Change the link color on hover using :hover pseudo-class.
+
+3. Styled Button
+Task: Design a button with custom styles.
+Requirements:
+Change the button’s color on hover.
+Add border-radius to make the button rounded.
+Use padding and margin to adjust the button’s size.
+
+4. Basic Image Gallery
+Task: Create a simple image gallery with three images side by side.
+Requirements:
+Use float or Flexbox to place the images side by side.
+Add border and padding around each image.
+Add captions below each image.
+
+5. Simple Form Design
+Task: Create a basic contact form with input fields for name, email, and message.
+Requirements:
+Style the input fields with border, padding, and width.
+Add a submit button and style it.
+Use placeholder text inside the input fields.
+
+6. Box Model Practice
+Task: Create a box with text inside to practice the CSS box model.
+Requirements:
+Add padding, margin, and border to the box.
+Set the box’s width and height.
+Use background-color to highlight the box.
+
+7. Simple Card Design
+Task: Create a card with an image, a title, and some text.
+Requirements:
+Style the card with padding, margin, and border.
+Set the image to take up the top portion of the card.
+Use font-size and color to style the text.
+
+8. Styled List
+Task: Create an ordered and unordered list with custom bullet points and numbers.
+Requirements:
+Change the list style using list-style-type.
+Add padding and margin to space out the list items.
+Use different colors for each list type.
+
+9. Text Styling
+Task: Create a paragraph of text and style it.
+Requirements:
+Use CSS properties like font-size, color, line-height, and font-family.
+Add text alignment (left, center, right).
+Use text-transform to change the text to uppercase.
+
+10. Colored Divs Layout
+Task: Create a layout with four colored boxes arranged in a 2x2 grid.
+Requirements:
+Use CSS Grid or float to arrange the boxes.
+Set a unique background color for each box.
+Add some space between the boxes using margin.
