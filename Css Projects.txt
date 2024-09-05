@@ -28,13 +28,69 @@ URL :- https://www.youtube.com/watch?v=f53uarhijZ4&list=PLSDeUiTMfxW7lm7P7GZ8qtN
 URL :- https://www.youtube.com/watch?v=6pUjcXYR6oI&list=PLSDeUiTMfxW7lm7P7GZ8qtNFffHAR5d_w&index=14
 
 10. Unleashing Dynamic Visuals: Creating a Background Color Changer with JavaScript by #huxnwebdev
-URL :- https://www.youtube.com/watch?v=WvGd0scrKOA&list=PLSDeUiTMfxW7lm7P7GZ8qtNFffHAR5d_w&index=16
 
-Note :- 
-GYM Website 
-School Website 
-Hotel Website 
-Hostel Website 
-Travel Website 
-Library Website 
-E-commercee Website
+-------------------------------------------------------------------------------------------------------------------
+20 Templates for pratcise :- 
+
+1. URL :- Ebook Landing Template
+https://templatemo.com/live/templatemo_588_ebook_landing
+
+2. URL :- Lugx Gaming Template
+https://templatemo.com/live/templatemo_589_lugx_gaming
+
+3. URL :- Topic Listing Template
+https://templatemo.com/tm-590-topic-listing
+
+4. Villa Agency Template
+URL :- https://templatemo.com/live/templatemo_591_villa_agency
+
+5. Tiya Golf Club Template
+URL :- https://templatemo.com/live/templatemo_587_tiya_golf_club
+
+6. Scholar Template
+URL :- https://templatemo.com/live/templatemo_586_scholar
+
+7. Barber Shop Template
+https://templatemo.com/live/templatemo_585_barber_shop
+
+8. Pod Talk Template
+https://templatemo.com/live/templatemo_584_pod_talk
+
+9. Festava Live Template
+https://templatemo.com/live/templatemo_583_festava_live
+
+10. 582 Tale Seo Agency
+https://templatemo.com/live/templatemo_582_tale_seo_agency
+
+11. 581 Kind Heart Charity
+https://templatemo.com/live/templatemo_581_kind_heart_charity
+
+12. 580 Woox Travel
+https://templatemo.com/live/templatemo_580_woox_travel
+
+13. Pop Design
+https://www.tooplate.com/live/2097_pop
+
+14. 552 Video Catalog
+https://templatemo.com/live/templatemo_552_video_catalog
+
+15. 550 Diagoona
+https://templatemo.com/live/templatemo_550_diagoona
+
+16. Training Studio Template
+https://templatemo.com/live/templatemo_548_training_studio
+
+17. Journey Template
+https://templatemo.com/live/templatemo_511_journey
+
+18. Character
+https://templatemo.com/live/templatemo_511_journey
+
+19. Zigzag Template
+https://templatemo.com/live/templatemo_471_zigzag
+
+20. 466 Cafe House
+https://templatemo.com/tm-466-cafe-house
+
+-------------------------------------------------------------------------------------------------------------------
+
